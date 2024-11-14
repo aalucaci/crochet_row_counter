@@ -1,6 +1,6 @@
 # cMLr3asK
 
-Quick start:
+Not so quick start:
 
 ```
 $ npm install
